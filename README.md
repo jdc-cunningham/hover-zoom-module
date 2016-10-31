@@ -15,7 +15,7 @@ The code uses a combination of requestAnimationFrame, variable caching, and tran
 
 ## Operation
 
-This is designed around two-containers, the image that you want to magnify is on the left, and some text/description is on the right. WHen you hover on the small image, a larger-zoomed-in image will overlay the text/description container. When the mouse leaves the small-image area, the larger-zoomed-in image will disappear and the text/description will once again be visible.
+This is designed around two-containers, the image that you want to magnify is on the left, and some text/description is on the right. When you hover on the small image, a larger-zoomed-in image will overlay the text/description container. When the mouse leaves the small-image area, the larger-zoomed-in image will disappear and the text/description will once again be visible.
 
 ## Code implementation
 
