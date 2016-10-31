@@ -50,7 +50,7 @@ Then drop the zoom-module part of the code in your site:
 In the dynamic version, you'd have a script that changes the source of both the small and large images. Otehrwise the rest is the same.
 
 ### Note
-This is only intended to be used on non-touch screen devices eg. devices with a mouse, as the tracking does not work well on 
-touch-based devices like a phone.
+This is only intended to be used on non-touch-screen devices eg. devices with a mouse, as the tracking does not work well on 
+touch-based devices like phones.
 
 This requires jQuery
