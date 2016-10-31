@@ -7,8 +7,9 @@ See demo here: https://www.cunninghamwebdd.com/demo/hover-zoom/
 This is a simple hover-zoom module that you can place anywhere on a page. The aspect-ratio of the images are designed to be 1:1
 since the containers are of 1:1 aspect-ratio.
 
-The larger image should be 5 times larger than the smaller image. The smaller image having preferrably a height/width dimension of 
-300px by 300px.
+The larger image should be 5 times larger than the smaller image. However any image will work, the magnification is done in the code. 
+
+The smaller image should have a height/width dimension of 300px by 300px.
 
 ### Note
 This is only intended to be used on non-touch screen devices eg. devices with a mouse, as the tracking does not work well on 
