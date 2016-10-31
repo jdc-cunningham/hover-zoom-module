@@ -19,7 +19,7 @@ This is designed around two-containers, the image that you want to magnify is on
 
 ## Code implementation
 
-There is a compressed file which includes a copy of jQuery, a css-reset file, actual code itself and the sample images.
+There is a compressed file which includes a copy of jQuery, the actual code itself and the sample images.
 
 ### Static implementation
 
