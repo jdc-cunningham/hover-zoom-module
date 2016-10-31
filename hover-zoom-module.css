@@ -1,0 +1,53 @@
+#hover-zoom-module {
+  position         : relative;
+  display          : inline-block;
+  width            : 750px;
+  height           : 400px;
+  background-color : white;
+  border           : 1px solid #282828;
+}
+#small-image-container {
+  position : absolute;
+  top      : 50px;
+  left     : 50px;
+  width    : 300px;
+  height   : 300px;
+}
+#small-image-container:hover {
+  cursor : url(square-cursor.png) 30 30, auto;
+}
+#small-image {
+  position : absolute;
+  top      : 0;
+  left     : 0;
+}
+#text-container {
+  position        : absolute;
+  top             : 50px;
+  right           : 50px;
+  width           : 300px;
+  height          : 300px;
+  display         : flex;
+  align-items     : center;
+  justify-content : center;
+  flex-direction  : column;
+}
+.big-text {
+  font-size   : 24px;
+  line-height : 28px;
+  font-weight : bold;
+}
+#zoomed-image-container {
+  position : absolute;
+  top      : 50px;
+  right    : 50px;
+  width    : 300px;
+  height   : 300px;
+  overflow : hidden;
+  opacity  : 0;
+}
+#large-image {
+  position : absolute;
+  top      : 0;
+  left     : 0;
+}
