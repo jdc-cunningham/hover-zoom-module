@@ -1,4 +1,4 @@
-// definte initial variables
+// define initial variables
 var target            = document.getElementById('small-image-container'),
     largeImageBox     = $("#zoomed-image-container"),
     largeImage        = $("#large-image"),
@@ -23,7 +23,7 @@ function testVisibility() {
     });
   }
   else {
-    largeImageVisible = false;           // update variable
+    largeImageVisible = false; // update variable
     // hide zoomed-image-container
     largeImageBox.css({
       'opacity' : 0
