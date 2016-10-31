@@ -27,7 +27,7 @@ This means that there will only be one image to be zoomed. In this case, all you
 
 Include the hover-zoom-module.css, square-cursor.png, the hover-handler.js, files and the photos themselves. 
 
-Then drop the zoom-module of the code in your site:
+Then drop the zoom-module part of the code in your site:
 
 ```
 <div id="zoom-module">
