@@ -47,7 +47,7 @@ Then drop the zoom-module part of the code in your site:
 
 ### Dynamic implementation
 
-In the dynamic version, you'd have a script that changes the source of both the small and large images. Otehrwise the rest is the same.
+In the dynamic version, you'd have a script that changes the source of both the small and large images. Otherwise the rest is the same.
 
 ### Note
 This is only intended to be used on non-touch-screen devices eg. devices with a mouse, as the tracking does not work well on 
